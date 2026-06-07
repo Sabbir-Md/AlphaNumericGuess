@@ -42,7 +42,7 @@ AlphaNumeric Guess is a logic-based puzzle game where players must guess a hidde
 ```
 AlphaNumeric-Guess/
 │
-├── main.py
+├── AlphaNumericGuess.py
 ├── README.md
 └── assets/ (optional)
 ```
