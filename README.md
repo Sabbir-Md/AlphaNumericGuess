@@ -44,7 +44,6 @@ AlphaNumeric-Guess/
 │
 ├── AlphaNumericGuess.py
 ├── README.md
-└── assets/ (optional)
 ```
 
 ## Future Improvements
