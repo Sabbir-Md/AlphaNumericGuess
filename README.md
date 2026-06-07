@@ -55,7 +55,7 @@ AlphaNumeric-Guess/
 - Sound effects and animations
 
 ## Author
-Sabbir Hasan
+Md Mahamudul Hasan Sabbir
 Software Engineering Student
 China University of Petroleum (East China)
 
