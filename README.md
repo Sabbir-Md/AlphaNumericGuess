@@ -35,7 +35,7 @@ AlphaNumeric Guess is a logic-based puzzle game where players must guess a hidde
 
 3. Run the game:
    ```bash
-   python main.py
+   python AlphaNumericGuess.py
    ```
 
 ## Project Structure
